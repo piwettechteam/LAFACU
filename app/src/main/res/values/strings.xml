@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LAFACU</string>
+    <string name="btnFacebookstring">Continuar con Facebook</string>
+    <string name="terms">He leido y aceptado los Terminos y Condiciones</string>
+    <string name="btnEmailstring">Regístrate con Email</string>
+
+
+</resources>
